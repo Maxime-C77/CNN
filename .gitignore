@@ -3,3 +3,6 @@ best_model.keras
 
 /celeba_image
 /celeba_sampled
+
+prediction_test.mp4
+training_video.mp4
